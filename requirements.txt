@@ -1,0 +1,5 @@
+Werkzeug
+cs50
+requests
+logging
+geonamescache
